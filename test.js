@@ -1,2 +1,2 @@
+const str1 = 'test1'
 const str = 'test'
-const str2 = 'q1test'
